@@ -28,6 +28,4 @@
   <a href="https://github.com/Dian-qit"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  /></a>
 </div>
 
-### Contribution Graph
-<br clear="both">
-<!-- <img src="https://raw.githubusercontent.com/Dian-qit/Dian-qit/output/snake.svg" alt="Snake animation" /> -->
+
